@@ -24,5 +24,6 @@ To write a Python program that evaluates and prints the results of boolean and a
      print("d:", d)
 ## Output
 ![image](https://github.com/user-attachments/assets/8c54ab90-de75-4831-ad17-ba254d65f2c2)
+
 ## Result
 Thus the program has been successfully executed
